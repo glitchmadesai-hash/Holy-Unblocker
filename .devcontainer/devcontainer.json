@@ -1,5 +1,5 @@
 {
-  "name": "Holy Unblocker LTS",
+  "name": "Glitchmade HUB",
   "image": "mcr.microsoft.com/devcontainers/javascript-node:0-20",
   "features": {
     "node": "20"
